@@ -1,0 +1,6 @@
+Steps to see Dashboard?
+
+1. Copy this link :  https://public.tableau.com/app/profile/arjun.jamwal/viz/EVVehicleAnalysis_17299119621690/EVDashboard?publish=yes
+2. Paste it on any browser (Chrome, safari or brave)
+3. Hit enter
+
